@@ -16,7 +16,7 @@ Last updated: 01/12/23
 
 • Providing Services: Uivar Music uses collected data to deliver music playback services within Discord servers.
 
-• Improving Services: Anonymous usage data helps us analyze and enhance the performance and features of Aco Music.
+• Improving Services: Anonymous usage data helps us analyze and enhance the performance and features of Uicar Music.
 
 **Data Sharing and Security**
 
