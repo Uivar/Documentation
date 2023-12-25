@@ -57,7 +57,7 @@ By using Aco Music, you agree to comply with and be bound by the terms and condi
 
 • Uivar Music is provided "as is" without warranties.
 
-• The developers are not liable for any damages resulting from the use or inability to use Aco Music.
+• The developers are not liable for any damages resulting from the use or inability to use Uivar Music.
 
 **Termination**
 
